@@ -1,3 +1,7 @@
+Run application :
+
+npm start
+
 Application Flow :
 
 User requests admin to join group.
